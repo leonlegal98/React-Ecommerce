@@ -1,0 +1,15 @@
+.command{
+    display: flex;
+    justify-content: center;
+    background-color: red;
+    height: 800px;
+
+}
+.commandsec{
+    background-color: rosybrown;
+    width: 600px;
+    display: flex;
+    flex-direction: column;
+    padding: 40px;
+    
+}

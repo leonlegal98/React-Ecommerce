@@ -1,0 +1,27 @@
+.produitsec{
+    display: flex;
+    justify-content: center;
+    background-color: red;
+    height: 3800px;
+
+}
+.produit{
+    background-color: rosybrown;
+    width: 600px;
+    display: flex;
+    flex-direction: column;
+    padding: 40px;
+}
+.panier{
+    display: flex;
+    justify-content: center;
+    background-color: red;
+    height: 700px;
+}
+.button{
+    background-color:#0a0a23;
+  color: #fff;
+  border:none;
+  margin-left: 10px;
+  margin-right: 10px;
+}

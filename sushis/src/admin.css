@@ -1,0 +1,39 @@
+.sectionadmin{
+    display: flex;
+    padding: 40px;
+    background-image: url('/Users/leon/Desktop/kssk/sushis/public/home01_v2.png');
+    height: 750px;
+
+    
+}
+.produitadmin {
+    background-color: rosybrown;
+    border-radius: 5%;
+    padding: 20px;
+    margin-left: 30px;
+    margin-right: 30px;
+    
+}
+.ingredientadmin{
+    background-color: rosybrown;
+    padding: 20px;
+    margin-left: 30px;
+    margin-right: 30px;
+    border-radius: 5%;
+
+}
+.commandadmin {
+    background-color: rosybrown;
+    border-radius: 5%;
+    padding: 20px;
+    margin-left: 30px;
+    margin-right: 30px;
+    
+}
+.button{
+    background-color:#0a0a23;
+  color: #fff;
+  border:none;
+  margin-left: 10px;
+  margin-right: 10px;
+}
